@@ -1,0 +1,188 @@
+
+{
+  "usuario": [
+    {
+      "name": "bruno",
+      "email": "bruno@gmail.com",
+      "senha": "123",
+      "id": 1
+    },
+    {
+      "name": "Joao",
+      "email": "joao@gmail.com",
+      "senha": "123",
+      "id": 2
+    }
+  ],
+  "musicas": [
+    {
+      "name": "Californication",
+      "autor": "RedHotChilPeppers",
+      "musicas": "../../../assets/musica.mp3",
+      "id": 1
+    },
+    {
+      "name": "Otherside",
+      "autor": "RedHotChilPeppers",
+      "id": 2
+    },
+    {
+      "name": "Under The Bridge",
+      "autor": "RedHotChilPeppers",
+      "id": 3
+    },
+    {
+      "name": "By The Way",
+      "autor": "RedHotChilPeppers",
+      "id": 4
+    },
+    {
+      "name": "Scar Tissue",
+      "autor": "RedHotChilPeppers",
+      "id": 5
+    }
+  ],
+  "playlist": [
+    {
+      "id": 1,
+      "name": "RedHotChiliPeppers",
+      "capa": "assets/img/capa3.png",
+      "descricao": "O melhor do rock com mais de 100 musicas disponiveis para voce.",
+      "musicas": [
+        {
+          "name": "Californication",
+          "autor": "RedHotChilPeppers",
+          "audio": "../../../assets/musica.mp3",
+          "id": 1
+        },
+        {
+          "name": "Otherside",
+          "autor": "RedHotChilPeppers",
+          "audio": "",
+          "id": 2
+        },
+        {
+          "name": "Under The Bridge",
+          "autor": "RedHotChilPeppers",
+          "audio": "",
+          "id": 3
+        },
+        {
+          "name": "By The Way",
+          "autor": "RedHotChilPeppers",
+          "audio": "",
+          "id": 4
+        },
+        {
+          "name": "Scar Tissue",
+          "autor": "RedHotChilPeppers",
+          "audio": "",
+          "id": 5
+        }
+      ],
+      "id usuario": ""
+    },
+    {
+      "id": 2,
+      "name": "The Killers",
+      "capa": "assets/img/capa2.png",
+      "descricao": "As musicas pop internacionais mais tocadas.",
+      "musicas": [
+        {
+          "name": "Mr. Brightside",
+          "autor": "The Killers",
+          "id": 1
+        },
+        {
+          "name": "My Own Soul's Warning",
+          "autor": "The Killers",
+          "id": 2
+        },
+        {
+          "name": "Somebody Told Me",
+          "autor": "The Killers",
+          "id": 3
+        },
+        {
+          "name": "When You Were Young",
+          "autor": "The Killers",
+          "id": 4
+        },
+        {
+          "name": "Human",
+          "autor": "The Killers",
+          "id": 5
+        }
+      ],
+      "id usuario": ""
+    },
+    {
+      "id": 3,
+      "name": "Pink Floyd",
+      "capa": "assets/img/capa0.gif",
+      "descricao": "Os melhores sucessos do Pink floyd.",
+      "musicas": [
+        {
+          "name": "Wish You Were Here",
+          "autor": "Pink Floyd",
+          "id": 1
+        },
+        {
+          "name": "Another Brick In The Wall",
+          "autor": "Pink Floyd",
+          "id": 2
+        },
+        {
+          "name": "Comfortably Numb",
+          "autor": "Pink Floyd",
+          "id": 3
+        },
+        {
+          "name": "Time",
+          "autor": "Pink Floyd",
+          "id": 4
+        },
+        {
+          "name": "The Wall (complete)",
+          "autor": "Pink Floyd",
+          "id": 5
+        }
+      ],
+      "id usuario": ""
+    },
+    {
+      "id": 4,
+      "name": "Internacionais",
+      "capa": "assets/img/capa1.png",
+      "descricao": "As melhores da semana , em uma playlist cheia de sucessos.",
+      "musicas": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "id usuario": ""
+    },
+    {
+      "id": 5,
+      "name": "Romanticas",
+      "capa": "assets/img/capa4.png",
+      "descricao": "A playlist dos casais.",
+      "musicas": [
+        {
+          "name": "Wish You Were Here",
+          "autor": "Pink Floyd",
+          "id": 1
+        },
+        2,
+        3,
+        4,
+        5
+      ],
+      "id usuario": ""
+    }
+  ]
+}
+
+
